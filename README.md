@@ -1,2 +1,2 @@
 # practices-2
-stll newbie! ;)
+still newbie! ;)
