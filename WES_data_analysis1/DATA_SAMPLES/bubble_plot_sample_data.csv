@@ -1,0 +1,11 @@
+Gene,Chromosome,Position,Alteration,Impact
+TP53,17,7579472,Amplification,5.1
+BRCA1,17,43045729,Deletion,3.7
+EGFR,7,55086724,Amplification,4.5
+MYC,8,128753679,Amplification,6.0
+KRAS,12,25398284,Deletion,2.9
+ALK,2,29443653,Amplification,5.8
+BRAF,7,140453136,Deletion,3.2
+PTEN,10,87863119,Amplification,4.9
+PIK3CA,3,179218297,Deletion,3.1
+CDKN2A,9,21974700,Amplification,5.4

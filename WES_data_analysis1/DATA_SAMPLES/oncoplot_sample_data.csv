@@ -1,0 +1,11 @@
+Sample,Gene,Alteration
+Sample1,TP53,Mutation
+Sample2,BRCA1,Amplification
+Sample3,EGFR,Deletion
+Sample4,PIK3CA,Mutation
+Sample5,KRAS,Mutation
+Sample6,ALK,Amplification
+Sample7,BRAF,Mutation
+Sample8,PTEN,Deletion
+Sample9,RB1,Mutation
+Sample10,MYC,Amplification
